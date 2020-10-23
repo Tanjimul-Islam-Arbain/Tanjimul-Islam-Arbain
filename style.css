@@ -1,0 +1,61 @@
+.purple-color{
+	color: steelblue; font-family: Product Sans;
+}
+body{
+	font-family: Product Sans;
+	color: black;
+	line-height: 26px;
+}
+.side-img{
+	width: 50%;
+	padding-left: 25%;
+}
+.half-width{
+	width: 50%;
+	float: left;
+}
+.primary-btnFB{
+	color: white;
+	background-color: steelblue;
+	padding: 13px 42px 13px 42px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+h1{
+	font-size: 3em;
+}
+.primary-btnINST{
+	color: white;
+	background-color: purple;
+	padding: 13px 42px 13px 42px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.primary-btnTWTR{
+	color: white;
+	background-color: blue;
+	padding: 13px 42px 13px 42px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.primary-btnmail{
+	color: white;
+	background-color: red;
+	padding: 13px 42px 13px 42px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.container{
+	padding-left: 5%;
+	display: inline-block;
+}
+.experiences{
+	padding: 30px;
+	margin: 30px;
+	background-color: rgb(238, 251, 258);
+	border-radius: 20px;
+}
+experience-item{
+	padding: 10px;
+	border-left: 1px solid rgba(137,130,247,2);
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tanjimul Islam Arbain</title>
+		<link rel="stylesheet"type="text/css"href="style.css">
+	</head>
+	<body>
+		<section class="container">
+			<div class="half-width">
+				<h1>Welcome to <span class="purple-color">Arbain </span> world</h1>
+				<h3>Growing Software specialist and Analyser</h3>
+				<p>You might see me in classroom, pharmacy and as superviser in my father's construction site. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the web developement hero.</p>
+				<a class="primary-btnFB"href="fb.com/Tanjimul.Islam.Arbain">Follow me on Facebook</a><a class="primary-btnINST"href="instagram.com/Tanjimul.Islam.Arbain">Follow me on Instagram</a><a class="primary-btnTWTR"href="twitter.com/TI_Arbain">Follow me on Tweeter</a>
+			</div>
+			<div class="half-width">
+				<img class="side-img"src="images/profile.jpg"alt=""/>
+			</div>
+		</section>
+		<section class="container">
+			<div class="half-width">
+				<img class="side-img"src="images/working 2.jpg"alt=""/>
+			</div>
+			<div class="half-width">
+				<h2>BIG DREAM</h2>
+				<h4>Become a web developer</h4>
+				<p>I already learned the basic HTML and CSS. I can build any simple website. I can even teach my grandma how to make a simple website. My Goal is to make 3 solid professional website and learn advanced topics.</p>
+			</div>
+		</section>
+		<section class="container experiences">
+			<h2>Experience</h2>
+			<div class="experience-item">
+				<h3>Full stack web developer</h3>
+				<p class="purple-color"> 2020-Present | Pro level Developer</p>
+				<p> I am the master of HTML, CSS and Javascript. I know everything needed to make a website function effeciently. I didn't stop with the web. I went beyond with the most popular Javascript framework called Vue JS. I even know the development, server and security. I will give you 100% web solution.</p>
+			</div>
+			<div class="experience-item">
+				<h3>Baby Web developer</h3>
+				<p class="purple-color"> 2019-2020 | Programming Hero(Remote)</p>
+				<p> They didn't offer me a job. But I made myself as a remote web developer. I made their website and showed it to them. They liked it. And uploded the content. It was fun working at Programming hero.</p>
+			</div>
+		</section>
+	</body>
+	<footer>
+		<p> © Tanjimul Islam Arbain 2020</p>
+	</footer>
+</html>
